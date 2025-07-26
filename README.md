@@ -24,8 +24,8 @@ An interactive YouTube downloader app built in Google Colab using `yt-dlp`, with
 ## 🍪 How to Get `cookies.txt` (for age-restricted/private videos)
 
 1. Install a browser extension:
-   - [Get cookies.txt](https://chrome.google.com/webstore/detail/get-cookiestxt/oeopbcgkkoapgobdbedcemjljbihmemj) (Chrome)
-   - [cookies.txt Export](https://addons.mozilla.org/en-US/firefox/addon/cookies-txt/) (Firefox)
+   - [Get cookies.txt] (Chrome)
+   - [cookies.txt Export] (Firefox)
 
 2. Go to [youtube.com](https://www.youtube.com), login, and export cookies using the extension.
 
@@ -38,11 +38,6 @@ To avoid confusion on repeated downloads, delete previous video files using the 
 ## 📄 License
 
 This project is licensed under the MIT License.
-
----
-
-### Screenshot
-![screenshot](https://via.placeholder.com/800x400?text=Colab+Downloader+UI)
 
 ---
 
